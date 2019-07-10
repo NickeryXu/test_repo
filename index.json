@@ -1,0 +1,14 @@
+{
+    "labs": [
+        {
+            "1.test1.ipynb": "test1"
+        }, {
+            "2.test2.ipynb": "test2"
+        }, {
+            "3.test3.ipynb": "test3"
+        },
+        {
+            "4.test4.ipynb": "test4"
+        }
+    ]
+}
